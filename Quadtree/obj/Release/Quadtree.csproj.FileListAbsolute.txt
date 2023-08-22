@@ -1,0 +1,15 @@
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\bin\Release\Quadtree.exe.config
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\bin\Release\Quadtree.exe
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\bin\Release\Quadtree.pdb
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree.csproj.AssemblyReference.cache
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\MainWindow.g.cs
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\App.g.cs
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree_MarkupCompile.cache
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree_MarkupCompile.lref
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\MainWindow.baml
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree.g.resources
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree.Properties.Resources.resources
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree.csproj.GenerateResource.cache
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree.csproj.CoreCompileInputs.cache
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree.exe
+D:\Skola\1mMPG-Z\Počítačová grafika\PDU1\Quadtree\Quadtree\Quadtree\obj\Release\Quadtree.pdb
